@@ -7,13 +7,14 @@ und der Begleit-Mod **ModPerformanceMonitor**, dazu die Daten für Website und W
 
 ## Herunterladen
 
-- **Neueste Version:** [Releases → Latest](https://github.com/NexaGrid-Hytale-Mod/NexaGrid-Releases/releases/latest) –
-  `NexaGrid-<Version>.jar`. Die Downloadseite der Website zeigt immer die zuletzt freigegebene Version.
+- **Aktuelle Version: Alpha 0.17.3** – [Releases → Latest](https://github.com/NexaGrid-Hytale-Mod/NexaGrid-Releases/releases/latest),
+  Datei `NexaGrid-0.17.3-alpha.jar`. Ältere Versionen sind vorerst offline. Die Downloadseite der Website zeigt immer die
+  freigegebene Version.
 - **Installation:** die `.jar` in den Mods-Ordner deines Hytale-Servers bzw. deiner Welt legen, Mod aktivieren, Welt starten.
   Unterstützt: Hytale 0.7.0 – 0.8.x.
 - **ModPerformanceMonitor** ist seit 0.15 in NexaGrid eingebaut (`/perf`) und wird nicht mehr gebraucht. Die eigenständige
   Mod (`perfmon-v…`) bleibt für Server ohne NexaGrid.
-- Die Versionen zählen seit 0.15.1 als `0.MINOR.PATCH-alpha` (Anzeige „Alpha 0.17.2“). Die alten Nummern 3.11.x – 3.12.x
+- Die Versionen zählen seit 0.15.1 als `0.MINOR.PATCH-alpha` (Anzeige „Alpha 0.17.3“). Die alten Nummern 3.11.x – 3.12.x
   sind ältere Alpha-Builds derselben Mod.
 
 ## Auf der Website
@@ -41,7 +42,7 @@ NexaGrid steht in keiner Verbindung zu Hypixel Studios. Hytale ist eine Marke vo
 
 **Official page and downloads: https://nexa-grid.net/downloads** – This repository only holds the released builds of
 NexaGrid (an unofficial Hytale fan mod by TC-Maker) and its companion mod ModPerformanceMonitor, plus the data for the
-website and wiki. Get the newest build from [Releases → Latest](https://github.com/NexaGrid-Hytale-Mod/NexaGrid-Releases/releases/latest)
+website and wiki. Get the current build, Alpha 0.17.3 (`NexaGrid-0.17.3-alpha.jar`; older builds are offline for now), from [Releases → Latest](https://github.com/NexaGrid-Hytale-Mod/NexaGrid-Releases/releases/latest)
 and put the `.jar` into the mods folder of your Hytale server or world (Hytale 0.7.0 – 0.8.x). The performance monitor is built
 into NexaGrid since 0.15 (`/perf`); the standalone ModPerformanceMonitor is optional. The website has the wiki with every item
 and recipe, the patch notes and a live web map for a second screen (after linking your player with `/ng web connect`).
